@@ -1,0 +1,13 @@
+.container{
+	display: flex;
+	background: black;
+}
+
+body{
+	display: flex;
+	background-color: black;
+}
+
+.header{
+	background-color: blue;
+}
